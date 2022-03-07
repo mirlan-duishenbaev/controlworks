@@ -1,0 +1,200 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.header{
+    background-color: #fff;
+}
+
+.nav-link{
+    font-size: 15px;
+    font-weight: 500;
+    color: #3b404f;
+}
+
+.carousel-text{
+    max-width: 600px;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title-text{
+    font-size: 64px;
+    color: #fff;
+    font-weight: 900;
+}
+
+.subtitle-text{
+    font-size: 18px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #f1f1f1;
+    opacity: 1;
+}
+
+.carousel-indicators .active{
+    background-color: #fab702;
+}
+
+.prev{
+    width: 60px;
+    height: 60px;
+    background-image: url(../images/slider-arrow-left.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.next{
+    width: 60px;
+    height: 60px;
+    background-image: url(../images/slider-arrow-right.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.block-1 p{
+    font-size: 30px;
+    font-weight: 400;
+    width: 80%;
+    padding-top: 10px;
+}
+
+.btn-get-quote{
+    border-radius: 0;
+    font-size: 16px;
+    color: #fab702;
+    font-weight: 400;
+}
+
+.block-2 h3{
+    font-size: 44px;
+    color: #3b404f;
+    font-weight: 700;
+}
+
+.block-2 p{
+    font-size: 18px;
+    color: #6d7396;
+    font-weight: 400px;
+    line-height: 30px;
+    max-width: 700px;
+    width: auto;
+    margin: 0 auto 60px;
+}
+
+.read-link{
+    ;
+}
+
+.card-body h5{
+    font-size: 22px;
+    color: #3b404f;
+    font-weight: 700;
+    text-align: left;
+}
+
+.card-body p{
+    font-size: 16px;
+    color: #6d7396;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.card-body a{
+    font-size: 14px;
+    color: #3b404f;
+    font-weight: 400;
+    text-align: left;
+}
+
+.box-1 img{
+    width: 100%;
+    height: auto;
+}
+
+.box-2 h4{
+    font-size: 22px;
+    font-weight: 700;
+    color: #3b404f;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+
+.box-2 p{
+    font-size: 16px;
+    color: #6d7396;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.hbox-1{
+    background-image: url(../images/ic-city.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hbox-2{
+    background-image: url(../images/ic-home.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hbox-3{
+    background-image: url(../images/ic-refabr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.block-4 h3{
+    font-size: 44px;
+    color: #3b404f;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.feedpack-p{
+    font-size: 18px;
+    color: #6d7396;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 700px;
+    width: auto;
+    margin: 0 auto 60px;
+}
+
+.media{
+    background-color: #f8f8f8;
+}
+
+.media-body p{
+    font-size: 16px;
+    color: #6d7396;
+    text-align: left;
+}
+
+.mediasign{
+    font-size: 11px;
+    color: #3b404f;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+
+footer{
+    font-size: 13px;
+    font-weight: 400;
+    color: #d8deff ;
+    background-color:  #4c5b6d;
+    padding-top: 15px;
+}

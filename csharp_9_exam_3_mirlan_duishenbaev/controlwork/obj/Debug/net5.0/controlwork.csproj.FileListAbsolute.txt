@@ -1,0 +1,16 @@
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.csprojAssemblyReference.cache
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.AssemblyInfoInputs.cache
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.AssemblyInfo.cs
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.csproj.CoreCompileInputs.cache
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\controlwork.exe
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\controlwork.deps.json
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\controlwork.runtimeconfig.json
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\controlwork.runtimeconfig.dev.json
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\controlwork.dll
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\ref\controlwork.dll
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\bin\Debug\net5.0\controlwork.pdb
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.dll
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\ref\controlwork.dll
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.pdb
+D:\Csharp\3_controlworks\csharp_9_exam_3_mirlan_duishenbaev\controlwork\obj\Debug\net5.0\controlwork.genruntimeconfig.cache
